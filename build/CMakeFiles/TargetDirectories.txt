@@ -1,0 +1,6 @@
+/Users/dominicchristiansen/Downloads/CS/pa02-dominicrosby/build/CMakeFiles/main.dir
+/Users/dominicchristiansen/Downloads/CS/pa02-dominicrosby/build/CMakeFiles/edit_cache.dir
+/Users/dominicchristiansen/Downloads/CS/pa02-dominicrosby/build/CMakeFiles/rebuild_cache.dir
+/Users/dominicchristiansen/Downloads/CS/pa02-dominicrosby/build/src/CMakeFiles/src.dir
+/Users/dominicchristiansen/Downloads/CS/pa02-dominicrosby/build/src/CMakeFiles/edit_cache.dir
+/Users/dominicchristiansen/Downloads/CS/pa02-dominicrosby/build/src/CMakeFiles/rebuild_cache.dir
